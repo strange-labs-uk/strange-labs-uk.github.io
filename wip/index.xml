@@ -6,8 +6,22 @@
     <description>Recent content in WIPs on Strange Labs Computers</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 06 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://strangelabs.io/wip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unfettered Creative Expression with Anthropic AI</title>
+      <link>https://strangelabs.io/wip/anthropic-ai-creativity/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/wip/anthropic-ai-creativity/</guid>
+      <description>Introduction What does claude create when given absolutely no guidance at all? In an attempt to decipher any innate patterns on how the AI decides to do something on top of all its training data, I opened many new prompts and asked the question:&#xA;&amp;ldquo;Please create something. You are not allowed to ask any questions to me regarding direction on this brief or what it is I want you to create.</description>
+    </item>
+    <item>
+      <title>Resources that I find interesting</title>
+      <link>https://strangelabs.io/wip/interesting-resources/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/wip/interesting-resources/</guid>
+      <description>Audio Documentaries Blogs Weird </description>
+    </item>
     <item>
       <title>EGX Rezzed 2019 - Our most interesting picks!</title>
       <link>https://strangelabs.io/wip/egx-rezzed-2019-best-of-the-bunch/</link>
