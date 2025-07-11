@@ -45,4 +45,38 @@
     // Initialize WOW.js Scrolling Animations
     new WOW().init();
 
+    // Lazy load gallery images into modals only when opened
+    $(document).ready(function() {
+        // When a modal is shown
+        $('.portfolio-modal').on('show.bs.modal', function (event) {
+            var $modal = $(this);
+            var $gallery = $modal.find('.gallery-images-placeholder');
+            var images = $gallery.data('images');
+            if (typeof images === 'string') {
+                try {
+                    images = JSON.parse(images);
+                } catch (e) {
+                    images = [];
+                }
+            }
+            // Only inject if not already injected
+            if ($gallery.children().length === 0 && Array.isArray(images)) {
+                images.forEach(function(img) {
+                    var $img = $('<img>', {
+                        src: 'images/portfolio/' + img,
+                        class: 'img-responsive img-centered gallery',
+                        alt: ''
+                    });
+                    $gallery.append($img);
+                });
+            }
+        });
+        // When a modal is hidden, clear the images
+        $('.portfolio-modal').on('hidden.bs.modal', function (event) {
+            var $modal = $(this);
+            var $gallery = $modal.find('.gallery-images-placeholder');
+            $gallery.empty();
+        });
+    });
+
 })(jQuery); // End of use strict
