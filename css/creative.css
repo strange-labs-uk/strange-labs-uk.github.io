@@ -681,54 +681,330 @@ body {
    ========================================================================== */
 
 .modal-form {
-    background-color: #F1F1F1 !important
+    background-color: #F1F1F1 !important;
+    color: rgb(65, 42, 104);
+    padding: 40px;
 }
-.modal-form p, .modal-form h1, .modal-form h2, .modal-form h3, .modal-form h5, .modal-form {
+
+.modal-form p, .modal-form h1, .modal-form h2, .modal-form h3, .modal-form h5 {
     color: rgb(65, 42, 104);   
 }
+
 .modal-form p {
-    text-align: justify;
-    font-size: 1em;
+    text-align: left;
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 15px;
 }
-.modal-form h4 {
-    color: #fff;
-}
-label{
+
+.modal-form h3 {
     color: rgb(65, 42, 104);
-    font-size: 1em;
+    font-size: 2.2em;
+    font-weight: 400;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
 }
+
+.modal-form h4 {
+    color: rgb(65, 42, 104);
+    font-size: 1.4em;
+    font-weight: 500;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* Form Groups */
+.form-group {
+    margin-bottom: 35px;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: relative;
+}
+
+/* Labels */
+label {
+    color: rgb(65, 42, 104);
+    font-size: 1.1em;
+    font-weight: 500;
+    margin-bottom: 12px;
+    margin-top: 8px;
+    display: block;
+    transition: all 0.3s ease;
+}
+
 label.checkbox {
     font-weight: 400;
+    font-size: 1em;
+    margin-left: 12px;
+    margin-top: 0;
+    margin-bottom: 0;
+    cursor: pointer;
+    transition: all 0.3s ease;
 }
-input[type=email], input[type=number], input[type=text], input[type=checkbox], input[type=radio]{
-  margin: 2%;
-  color: rgb(65, 42, 104);
+
+label.checkbox:hover {
+    color: #DE9F00;
 }
+
+/* Input Fields */
+input[type=email], 
+input[type=number], 
+input[type=text] {
+    width: 100%;
+    padding: 18px 20px;
+    border: 2px solid rgba(65, 42, 104, 0.2);
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.8);
+    color: rgb(65, 42, 104);
+    font-size: 1em;
+    box-sizing: border-box;
+    margin-top: 8px;
+}
+
+input[type=email]:focus, 
+input[type=number]:focus, 
+input[type=text]:focus {
+    outline: none;
+    border-color: #DE9F00;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0 0 20px rgba(222, 159, 0, 0.3);
+}
+
+input[type=email]::placeholder, 
+input[type=number]::placeholder, 
+input[type=text]::placeholder {
+    color: rgba(65, 42, 104, 0.6);
+}
+
+/* Textarea */
+.modal-form textarea {
+    width: 100%;
+    padding: 18px 20px;
+    border: 2px solid rgba(65, 42, 104, 0.2);
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.8);
+    color: rgb(65, 42, 104);
+    font-size: 1em;
+    resize: vertical;
+    min-height: 120px;
+    box-sizing: border-box;
+    margin-top: 8px;
+}
+
+.modal-form textarea:focus {
+    outline: none;
+    border-color: #DE9F00;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0 0 20px rgba(222, 159, 0, 0.3);
+}
+
+.modal-form textarea::placeholder {
+    color: rgba(65, 42, 104, 0.6);
+}
+
+/* Checkboxes and Radio Buttons */
+input[type=checkbox], 
+input[type=radio] {
+    margin: 0 12px 0 0;
+    transform: scale(1.3);
+    accent-color: #DE9F00;
+    cursor: pointer;
+}
+
+/* Checkbox Lists */
 .modal-form ul {
-  columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 2;
-  list-style-type: none;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    list-style-type: none;
+    padding: 0;
+    margin: 20px 0;
+    margin-left: 20px;
+    margin-right: 20px;
 }
-.modal-form select, .modal-form textarea{
-  width: 70%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 10px;
-  box-sizing: border-box;
-  resize: vertical;
-  margin: 2%;
-  color: rgb(65, 42, 104);
+
+.modal-form ul li {
+    margin-bottom: 15px;
+    padding: 12px 16px;
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    border: 1px solid rgba(65, 42, 104, 0.1);
 }
-.checkbox {
+
+.modal-form ul li:hover {
+    background: rgba(255, 255, 255, 0.8);
+    transform: translateX(5px);
+    border-color: rgba(222, 159, 0, 0.3);
+}
+
+/* Radio Button Groups */
+.modal-form input[type=radio] {
+    margin-right: 12px;
+    margin-left: 20px;
+}
+
+/* Radio button container spacing */
+.modal-form input[type=radio] + label {
+    margin-right: 20px;
+    margin-left: 20px;
     display: inline-block;
 }
+
+/* Radio button group container */
+.modal-form input[type=radio] {
+    margin-left: 20px;
+}
+
+/* Submit Button */
+#form-submit {
+    background: linear-gradient(135deg, #DE9F00 0%, #f39c12 100%);
+    color: #fff;
+    border: none;
+    padding: 18px 40px;
+    border-radius: 12px;
+    font-size: 1.1em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 8px 25px rgba(222, 159, 0, 0.3);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    width: calc(100% - 40px);
+    margin: 30px 20px 20px 20px;
+}
+
+#form-submit:hover {
+    background: linear-gradient(135deg, #f39c12 0%, #DE9F00 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 12px 35px rgba(222, 159, 0, 0.4);
+}
+
+#form-submit:active {
+    transform: translateY(0);
+}
+
+#form-submit:disabled {
+    background: #ccc;
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: none;
+}
+
+/* Error and Success States */
+.error-message {
+    color: #e74c3c;
+    font-size: 0.9em;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background: rgba(231, 76, 60, 0.1);
+    border-radius: 8px;
+    border-left: 4px solid #e74c3c;
+}
+
+.form-control.error {
+    border-color: #e74c3c !important;
+    box-shadow: 0 0 15px rgba(231, 76, 60, 0.3) !important;
+}
+
+.form-control.success {
+    border-color: #27ae60 !important;
+    box-shadow: 0 0 15px rgba(39, 174, 96, 0.3) !important;
+}
+
+/* Required Field Indicator */
+.required {
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+/* Modal Enhancements */
+.modal-content {
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+}
+
+.modal-header {
+    background: #F1F1F1;
+    border-bottom: none;
+    padding: 30px 40px;
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.modal-header h3 {
+    color: #DE9F00;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.modal-header .close {
+    font-size: 1.5em;
+    transition: all 0.3s ease;
+}
+
+.modal-body {
+    padding: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .modal-form {
+        padding: 25px;
+    }
+    
+    .modal-form ul {
+        columns: 1;
+        -webkit-columns: 1;
+        -moz-columns: 1;
+    }
+    
+    .modal-form h3 {
+        font-size: 1.8em;
+    }
+    
+    input[type=email], 
+    input[type=number], 
+    input[type=text],
+    .modal-form textarea {
+        padding: 15px 18px;
+    }
+    
+    .form-group {
+        margin-bottom: 25px;
+    }
+}
+
+
+
 #spec-form {
     text-align: left;
-    padding: 10px;
+    padding: 0;
 }
+
 #orders-closed button {
-    background-color: #A60000;
+    background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+    color: #fff;
+    border: none;
+    padding: 18px 35px;
+    border-radius: 12px;
+    font-size: 1.1em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 8px 25px rgba(231, 76, 60, 0.3);
 }
 
 /* ==========================================================================
