@@ -323,15 +323,15 @@ header .header-content .header-content-inner p {
     margin: 50px;
 }
 .hidden {
-  opacity:0;
+  visibility: hidden;
 }
 .console-container {
     font-size: 1.7em; 
-    display:block;
-    color:white;
-    margin:auto;
-    text-align: left;
-    width: 50%;
+    display: block;
+    color: white;
+    margin: auto;
+    text-align: center;
+    width: 80%;
 }
 .console-underscore {
     display:inline-block;

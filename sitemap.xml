@@ -11,13 +11,25 @@
     <loc>https://strangelabs.io/</loc>
     <lastmod>2025-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://strangelabs.io/wip/anthropic-ai-creativity/</loc>
+    <loc>https://strangelabs.io/blog/anthropic-ai-creativity/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://strangelabs.io/wip/</loc>
-    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
+    <loc>https://strangelabs.io/tags/blogs/</loc>
+    <lastmod>2025-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://strangelabs.io/wip/interesting-resources/</loc>
+    <loc>https://strangelabs.io/tags/documentaries/</loc>
+    <lastmod>2025-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://strangelabs.io/tags/resources/</loc>
+    <lastmod>2025-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://strangelabs.io/blog/interesting-resources/</loc>
+    <lastmod>2025-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://strangelabs.io/tags/</loc>
+    <lastmod>2025-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://strangelabs.io/tags/tools/</loc>
     <lastmod>2025-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://strangelabs.io/guides/</loc>
@@ -30,9 +42,6 @@
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://strangelabs.io/tags/settings/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://strangelabs.io/tags/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://strangelabs.io/tags/windows/</loc>
@@ -131,7 +140,7 @@
     <loc>https://strangelabs.io/guides/how-to-avoid-the-bait-and-not-get-phished/</loc>
     <lastmod>2019-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://strangelabs.io/wip/egx-rezzed-2019-best-of-the-bunch/</loc>
+    <loc>https://strangelabs.io/blog/egx-rezzed-2019-best-of-the-bunch/</loc>
     <lastmod>2019-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://strangelabs.io/tags/code/</loc>
@@ -175,8 +184,6 @@
   </url><url>
     <loc>https://strangelabs.io/blog/full-stack-buildings-design/</loc>
     <lastmod>2016-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://strangelabs.io/blog/secret-things-in-modern-operating-systems/</loc>
   </url><url>
     <loc>https://strangelabs.io/categories/</loc>
   </url>

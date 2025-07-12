@@ -16,6 +16,20 @@
       <description>Introduction Sometimes you don&amp;rsquo;t want to play a modern game. Every generation has its &amp;ldquo;Golden Era&amp;rdquo;, partly from nostalgia for a time when you were younger, freer, and enjoying life more, but partly because things were objectively better in some ways. In gaming, there was a notable decade or so spanning the late 1990s to early 2000s (extending into the early 2010s). This was an era when developers couldn&amp;rsquo;t simply throw more money and computing power at problems; they had to invent creative solutions.</description>
     </item>
     <item>
+      <title>Unfettered Creative Expression with Anthropic AI</title>
+      <link>https://strangelabs.io/blog/anthropic-ai-creativity/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/anthropic-ai-creativity/</guid>
+      <description>Introduction What does claude create when given absolutely no guidance at all? In an attempt to decipher any innate patterns on how the AI decides to do something on top of all its training data, I opened many new prompts and asked the question:&#xA;&amp;ldquo;Please create something. You are not allowed to ask any questions to me regarding direction on this brief or what it is I want you to create.</description>
+    </item>
+    <item>
+      <title>Resources that I find interesting</title>
+      <link>https://strangelabs.io/blog/interesting-resources/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/interesting-resources/</guid>
+      <description>Audio Documentaries Blogs Weird </description>
+    </item>
+    <item>
       <title>I Used AI to Write an Academic Article. The Result Was a Paradox...</title>
       <link>https://strangelabs.io/blog/i-used-ai-to-write-an-academic-article/</link>
       <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
@@ -72,6 +86,13 @@
       <description>Introduction Back in 2003, whilst I was a teenager, I found myself rebelling against the idea of owning a mobile phone. Something about it just didn’t sit right with me. I think that I sensed a future where increased social connections would lead to each one feeling less meaningful. Or maybe it was simply the reluctance to be available 24/7. I cherished the ritual of asking my parents to use the house phone, ensuring no one was online, and then calling a friend’s landline.</description>
     </item>
     <item>
+      <title>EGX Rezzed 2019 - Our most interesting picks!</title>
+      <link>https://strangelabs.io/blog/egx-rezzed-2019-best-of-the-bunch/</link>
+      <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/egx-rezzed-2019-best-of-the-bunch/</guid>
+      <description>EGX Rezzed, London’s biggest gaming event, concluded a week ago. Strange Labs was in attendance and amongst the various qualities of cosplayers wandering around, excellent merchandise and endless games to play, there were also some pretty cool talks from the developers themselves. We managed to get to a few (annoyingly everything inevitably overlaps at these sorts of events) and thought we would share our favourite picks of brand new, up and coming games.</description>
+    </item>
+    <item>
       <title>Designing A Space For Technology Enthusiasts</title>
       <link>https://strangelabs.io/blog/designing-a-space-for-technology-enthusiasts/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
@@ -105,13 +126,6 @@
       <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://strangelabs.io/blog/full-stack-buildings-design/</guid>
       <description>Designing Buildings in the Future The future of architecture is evolving, giving rise to a new breed of architects with broader vision, deeper influence, and a more comprehensive understanding of their craft. These future architects won’t just design buildings in the traditional sense, from material selection to philosophical considerations, but will also grasp the intricacies of modern technology. They will understand everything from the flow of electrons in wiring to the connectivity of the internet, and how these elements interact with the building&amp;rsquo;s users in an increasingly digital world.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://strangelabs.io/blog/secret-things-in-modern-operating-systems/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://strangelabs.io/blog/secret-things-in-modern-operating-systems/</guid>
-      <description>update: &amp;ldquo;2024-12-15&amp;rdquo;</description>
     </item>
   </channel>
 </rss>
