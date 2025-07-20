@@ -1024,17 +1024,35 @@ input[type=radio] {
     font-size: 2em;
     padding-right: 20px;
     display: block;
-    margin-left: 150px;
-}
-.archive-post-time {
-    width: 150px;
-    float:left;
-    display: block;
-    padding-left: 20px;
 }
 .blog-hr {
     width: 80%;
     border: 1px solid rgba(255,255,255,0.1);
+}
+.archive-post-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.3em;
+}
+.archive-post-time {
+    min-width: 70px;
+    text-align: left;
+    flex: none;
+    width: 150px;
+    float:left;
+    display: block;
+    padding: 0 0 0 20px;
+}
+.archive-post-main {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex: 1;
+}
+.archive-post-author {
+  font-size: 0.95em;
+  color: #888;
+  margin-top: 0.2em;
 }
 
 /* Single post view */

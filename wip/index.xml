@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WIPs on Strange Labs Computers</title><link>http://localhost:1313/wip/</link><description>Recent content in WIPs on Strange Labs Computers</description><generator>Hugo</generator><language>en-gb</language><atom:link href="http://localhost:1313/wip/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WIPs on Strange Labs Computers</title>
+    <link>http://localhost:1313/wip/</link>
+    <description>Recent content in WIPs on Strange Labs Computers</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 06 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/wip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EGX Rezzed 2019 - Our most interesting picks!</title>
+      <link>http://localhost:1313/wip/egx-rezzed-2019-best-of-the-bunch/</link>
+      <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wip/egx-rezzed-2019-best-of-the-bunch/</guid>
+      <description>EGX Rezzed, London’s biggest gaming event, concluded a week ago. Strange Labs was in attendance and amongst the various qualities of cosplayers wandering around, excellent merchandise and endless games to play, there were also some pretty cool talks from the developers themselves. We managed to get to a few (annoyingly everything inevitably overlaps at these sorts of events) and thought we would share our favourite picks of brand new, up and coming games.</description>
+    </item>
+  </channel>
+</rss>
