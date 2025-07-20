@@ -34,6 +34,9 @@ body {
     -ms-font-feature-settings: 'liga' 0, 'dlig' 0;
     font-feature-settings: 'liga' 0, 'dlig' 0;
     font-variant-ligatures: none;
+    /* background: url('/images/banner.png') center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed; */
 }
 hr {
     width: 100px;
