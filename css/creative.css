@@ -34,9 +34,9 @@ body {
     -ms-font-feature-settings: 'liga' 0, 'dlig' 0;
     font-feature-settings: 'liga' 0, 'dlig' 0;
     font-variant-ligatures: none;
-    /* background: url('/images/banner.png') center center no-repeat;
+    background: url('/images/banner.png') center center no-repeat;
     background-size: cover;
-    background-attachment: fixed; */
+    background-attachment: fixed;
 }
 hr {
     width: 100px;
@@ -302,7 +302,7 @@ header .header-content .header-content-inner p {
    3. Sections - Styling the partials
    ========================================================================== */
 
-#background {
+/* #background {
     position: fixed;
     width: 100%;
     height: 100%;
@@ -320,7 +320,7 @@ header .header-content .header-content-inner p {
     100% {
         background-position: 0% 50%;
     }
-}
+} */
 #logo-image {
     width: 30%;
     margin: 50px;
