@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programs on Strange Labs Computers</title>
+    <link>https://strangelabs.io/tags/programs/</link>
+    <description>Recent content in Programs on Strange Labs Computers</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 18 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://strangelabs.io/tags/programs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parting with Your Computer- Is Your Data Safe?</title>
+      <link>https://strangelabs.io/guides/is-my-data-safe/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/guides/is-my-data-safe/</guid>
+      <description>Introduction At some point, you may need to part with your computer. Whether it’s a company-owned machine that needs to be returned, or you’re selling it to upgrade to a new model, one thing is certain: it contains a lot of your personal data. Some of that data is likely quite sensitive.&#xA;Imagine if someone gained access to your photos, addresses, documents, passwords, or financial information. The potential consequences are alarming: identity theft, unauthorised purchases, fraudulent loans, ransomware attacks, or even blackmail.</description>
+    </item>
+    <item>
+      <title>Genius Gaming Tales- Creative Exploits and Strategies</title>
+      <link>https://strangelabs.io/blog/genius-gaming-tales/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/genius-gaming-tales/</guid>
+      <description>Introduction Gaming is great, but what&amp;rsquo;s truly fascinating is when players devise ingenious plans to &amp;ldquo;hack&amp;rdquo; the game using nothing but the engine itself. No cheats, no actual hacking, just pure, creative strategy. These approaches not only showcase the ability to &amp;ldquo;win&amp;rdquo; by exploiting unintended game mechanics but also offer intriguing insights into the psychology of the gamers themselves.&#xA;Let&amp;rsquo;s explore some of the most captivating examples of strategic exploits in simulation games.</description>
+    </item>
+    <item>
+      <title>Beginners Guide To Windows 10</title>
+      <link>https://strangelabs.io/guides/beginners-guide-to-windows-10/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/guides/beginners-guide-to-windows-10/</guid>
+      <description>Introduction Many people have asked for help in getting started with Windows 10 and achieving a basic understanding of the operating system (OS). Although Windows 10 was released on July 29, 2015, some users still struggle to find their way around. This difficulty often stems from a less-than-ideal user experience rather than any fault of the users themselves. While a basic understanding of computers can be helpful, Windows 10 can be challenging due to its layered interface, which builds upon previous versions of Windows.</description>
+    </item>
+    <item>
+      <title>Blue Screen Of Death Scams On Windows</title>
+      <link>https://strangelabs.io/blog/bsod-scams-on-windows-10/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/bsod-scams-on-windows-10/</guid>
+      <description>Introduction In our increasingly connected world, scams have become a growing threat to computer users. One particularly insidious tactic involves exploiting the notorious Blue Screen of Death (BSOD) - a symbol of ultimate computer error that has long been associated with Windows operating systems.&#xA;The Evolution of the BSOD For long-time Windows users, the BSOD is a familiar sight. This error screen gained infamy over the years, setting Windows apart from other operating systems in terms of visible system failures.</description>
+    </item>
+    <item>
+      <title>Arguing For Open Source</title>
+      <link>https://strangelabs.io/blog/arguing-for-open-source/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/arguing-for-open-source/</guid>
+      <description>Why Should We Trust What People Hide from Us? Open source technology holds the potential to build greater trust among people. By extending the principles of open source from computer science to other areas of society and culture, we might unlock significant benefits.&#xA;What is open source? At its core, open source refers to software whose source code, the underlying instructions that define how the software functions, is freely available for anyone to view, modify, and redistribute.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Strange Labs Computers</title>
+    <link>https://strangelabs.io/tags/linux/</link>
+    <description>Recent content in Linux on Strange Labs Computers</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://strangelabs.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Art Behind Default OS Wallpapers</title>
+      <link>https://strangelabs.io/blog/the-art-behind-default-os-wallpapers/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/the-art-behind-default-os-wallpapers/</guid>
+      <description>Introduction Backgrounds are often the unsung heroes of our digital experience. Whether it’s the calming landscape of a rolling hill or a futuristic light display, these images are seen by millions every day, yet rarely given the recognition they deserve. Let’s take a moment to spotlight some of the most iconic background images that have come pre-packaged with operating systems over the years, celebrating the artistry and thought that went into creating them.</description>
+    </item>
+    <item>
+      <title>Sick of Windows 10? Try Linux!</title>
+      <link>https://strangelabs.io/guides/sick-of-windows-10-try-linux/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/guides/sick-of-windows-10-try-linux/</guid>
+      <description>Introduction Since the free Windows 10 upgrade, many of our customers have expressed frustration with Microsoft&amp;rsquo;s tactics for pushing their latest OS. They&amp;rsquo;ve encountered issues with subsequent updates that have disrupted their systems, along with a lack of driver support for essential components like Wi-Fi, printers, and Bluetooth. Additionally, the increasingly abstract and convoluted user interface has left many feeling confused and frustrated. It&amp;rsquo;s clear that Windows 10 isn&amp;rsquo;t winning many fans.</description>
+    </item>
+    <item>
+      <title>Arguing For Open Source</title>
+      <link>https://strangelabs.io/blog/arguing-for-open-source/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/arguing-for-open-source/</guid>
+      <description>Why Should We Trust What People Hide from Us? Open source technology holds the potential to build greater trust among people. By extending the principles of open source from computer science to other areas of society and culture, we might unlock significant benefits.&#xA;What is open source? At its core, open source refers to software whose source code, the underlying instructions that define how the software functions, is freely available for anyone to view, modify, and redistribute.</description>
+    </item>
+  </channel>
+</rss>

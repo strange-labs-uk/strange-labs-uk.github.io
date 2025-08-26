@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Strange Labs Computers</title>
+    <link>https://strangelabs.io/tags/open-source/</link>
+    <description>Recent content in Open Source on Strange Labs Computers</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 07 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://strangelabs.io/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arguing For Open Source</title>
+      <link>https://strangelabs.io/blog/arguing-for-open-source/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/arguing-for-open-source/</guid>
+      <description>Why Should We Trust What People Hide from Us? Open source technology holds the potential to build greater trust among people. By extending the principles of open source from computer science to other areas of society and culture, we might unlock significant benefits.&#xA;What is open source? At its core, open source refers to software whose source code, the underlying instructions that define how the software functions, is freely available for anyone to view, modify, and redistribute.</description>
+    </item>
+  </channel>
+</rss>

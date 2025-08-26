@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacks on Strange Labs Computers</title>
+    <link>https://strangelabs.io/tags/hacks/</link>
+    <description>Recent content in Hacks on Strange Labs Computers</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://strangelabs.io/tags/hacks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Think In A World Of Cybercrime</title>
+      <link>https://strangelabs.io/blog/how-to-think-in-a-world-of-cybercrime/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/how-to-think-in-a-world-of-cybercrime/</guid>
+      <description>Introduction As technology and networking become increasingly integrated into our lives, the threat of cybercrime will only grow. It&amp;rsquo;s a scary reality, and if you find yourself feeling paranoid, you&amp;rsquo;re probably justified. In this article, I&amp;rsquo;ll share how I approach this complex digital landscape and offer some advice on how you might want to think about it too. Be warned, this perspective isn&amp;rsquo;t for the faint of heart.&#xA;The Escalating Cyber Threat In recent years, we’ve been bombarded with news about cyber attacks, ransomware infections, and data breaches.</description>
+    </item>
+    <item>
+      <title>How To Avoid The Bait And Not Get Phished</title>
+      <link>https://strangelabs.io/guides/how-to-avoid-the-bait-and-not-get-phished/</link>
+      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/guides/how-to-avoid-the-bait-and-not-get-phished/</guid>
+      <description>Introduction One of the most common way to get scammed or hacked is through a method called “Phishing”. It is very easy to fall foul of this type of con and can result in loss of control over your data and identity to the hackers. The following is a guest article by Techwarn which goes some way to help you avoid this sort of attack and educate yourselves in this method of cybercrime.</description>
+    </item>
+    <item>
+      <title>Designing A Space For Technology Enthusiasts</title>
+      <link>https://strangelabs.io/blog/designing-a-space-for-technology-enthusiasts/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/designing-a-space-for-technology-enthusiasts/</guid>
+      <description>Introduction From 2017 to 2020, I embarked on an exciting project to transform my traditional PC repair shop into a dynamic social space where programmers could meet, collaborate, and work on projects. Midway through this transformation, I shared an update on the progress. Now, as we close the chapter on this journey, I’m reflecting on the design process and what we achieved. For the final look before closing, be sure to check out the photos at the end.</description>
+    </item>
+    <item>
+      <title>Forgotten Your Windows 7 Password?</title>
+      <link>https://strangelabs.io/guides/forgotten-your-windows-password/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/guides/forgotten-your-windows-password/</guid>
+      <description>It’s every Windows user’s worst nightmare: you try to log in one day, and every attempt is denied. Whether you’ve forgotten your password, it’s been changed, or you need access without knowing the password, there’s a way to break back in.&#xA;The Backdoor Warning: This method involves interrupting your system&amp;rsquo;s startup process, which can be harmful to your hard drive. Use it only if absolutely necessary.&#xA;Step 1: Prepare Your Laptop (If Applicable)</description>
+    </item>
+  </channel>
+</rss>

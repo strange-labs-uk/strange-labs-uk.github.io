@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Strange Labs Computers</title>
+    <link>https://strangelabs.io/tags/code/</link>
+    <description>Recent content in Code on Strange Labs Computers</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://strangelabs.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing A Space For Technology Enthusiasts</title>
+      <link>https://strangelabs.io/blog/designing-a-space-for-technology-enthusiasts/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/designing-a-space-for-technology-enthusiasts/</guid>
+      <description>Introduction From 2017 to 2020, I embarked on an exciting project to transform my traditional PC repair shop into a dynamic social space where programmers could meet, collaborate, and work on projects. Midway through this transformation, I shared an update on the progress. Now, as we close the chapter on this journey, I’m reflecting on the design process and what we achieved. For the final look before closing, be sure to check out the photos at the end.</description>
+    </item>
+    <item>
+      <title>Arguing For Open Source</title>
+      <link>https://strangelabs.io/blog/arguing-for-open-source/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/arguing-for-open-source/</guid>
+      <description>Why Should We Trust What People Hide from Us? Open source technology holds the potential to build greater trust among people. By extending the principles of open source from computer science to other areas of society and culture, we might unlock significant benefits.&#xA;What is open source? At its core, open source refers to software whose source code, the underlying instructions that define how the software functions, is freely available for anyone to view, modify, and redistribute.</description>
+    </item>
+  </channel>
+</rss>

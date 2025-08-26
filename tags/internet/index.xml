@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on Strange Labs Computers</title>
+    <link>https://strangelabs.io/tags/internet/</link>
+    <description>Recent content in Internet on Strange Labs Computers</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://strangelabs.io/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Data Deletion Paradox</title>
+      <link>https://strangelabs.io/blog/the-data-deletion-paradox/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/the-data-deletion-paradox/</guid>
+      <description>It started innocently enough. Sarah Thompson, a former customer of CloudyApp Solutions, sent a straightforward email to support@cloudyapp.com:&#xA;&amp;ldquo;Hi, I closed my account last week and would like to request that all my personal data be deleted from your systems. Thanks!&amp;rdquo;&#xA;Unfortunately, this seemingly simple request opened a pandora&amp;rsquo;s box of data governance and not only revealed what happens when software has not been designed with data governance in mind from the start, but rather than remove her personal details, cemented Sarah Thomas into the CloudyApp part of the internet for good.</description>
+    </item>
+    <item>
+      <title>Why Reforming Governance Is The Most Important Thing</title>
+      <link>https://strangelabs.io/blog/why-reforming-governance-is-the-most-important-thing/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/why-reforming-governance-is-the-most-important-thing/</guid>
+      <description>Introduction How can we as a population effectively address matters of public concern that impact society, the economy, and the environment on local and global scales? How can we drive positive change in these areas?&#xA;While education may not solve many immediate problems, it can be argued that education is the most crucial factor for societal reform for the better, as it ultimately addresses issues like these at their source over the long term.</description>
+    </item>
+    <item>
+      <title>Future-Proofing Governance</title>
+      <link>https://strangelabs.io/blog/futureproofing-governance/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/futureproofing-governance/</guid>
+      <description>Introduction Imagine designing a country&amp;rsquo;s system of governance from the ground up, leveraging all available technological resources and integrating lessons learned from history. How would such a system function? What principles would guide its operations?&#xA;Future-proof is a think-tank dedicated to exploring these questions and more. We do not profess to have definitive answers but aim to stimulate thoughtful discussion. Founded by technologists with expertise in software development and systems design, Futureproof aspires to build a diverse community of thinkers.</description>
+    </item>
+    <item>
+      <title>Diagnosing Internet Issues On Windows 10</title>
+      <link>https://strangelabs.io/guides/diagnosing-internet-issues-win-10/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/guides/diagnosing-internet-issues-win-10/</guid>
+      <description>Introduction In today&amp;rsquo;s world, the internet is essential for daily life. It&amp;rsquo;s so integral to our society that the UN has declared internet access a human right. We rely on it for work, entertainment, socializing, and research, so when a slow, intermittent, or non-existent connection disrupts our access, it can be incredibly frustrating. Fortunately, Strange Labs has some solutions to help you get back online!&#xA;Is it the router or the PC?</description>
+    </item>
+    <item>
+      <title>Strengthening Relationships Weakened By The Internet</title>
+      <link>https://strangelabs.io/blog/strengthening-relationships-weakened-by-the-internet/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/strengthening-relationships-weakened-by-the-internet/</guid>
+      <description>Introduction Back in 2003, whilst I was a teenager, I found myself rebelling against the idea of owning a mobile phone. Something about it just didn’t sit right with me. I think that I sensed a future where increased social connections would lead to each one feeling less meaningful. Or maybe it was simply the reluctance to be available 24/7. I cherished the ritual of asking my parents to use the house phone, ensuring no one was online, and then calling a friend’s landline.</description>
+    </item>
+  </channel>
+</rss>

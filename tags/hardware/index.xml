@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware on Strange Labs Computers</title>
+    <link>https://strangelabs.io/tags/hardware/</link>
+    <description>Recent content in Hardware on Strange Labs Computers</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://strangelabs.io/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Easily Replace Your Boot Drive Without Losing Data</title>
+      <link>https://strangelabs.io/guides/replace-your-boot-drive/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/guides/replace-your-boot-drive/</guid>
+      <description>Introduction If your boot drive is running out of space, using your PC can quickly become frustrating and limiting. You might struggle to save files, or even open programs or access the internet if there&amp;rsquo;s no space left. When this happens, you have a few options to free up more space. The simplest solution is to add another hard drive or solid-state drive. However, this might not be feasible for everyone, especially if you&amp;rsquo;re dealing with a laptop that lacks expansion slots, or if you specifically need to use the C: drive for optimal performance.</description>
+    </item>
+    <item>
+      <title>How to Speed Up Your Windows 10 Startup</title>
+      <link>https://strangelabs.io/guides/speeding-up-windows-10-startup/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/guides/speeding-up-windows-10-startup/</guid>
+      <description>Hardware Upgrades The easiest, though often most expensive, method to boost your PC&amp;rsquo;s performance is by upgrading the hardware. One of the most impactful upgrades you can make is adding a Solid State Drive (SSD). Unlike traditional mechanical Hard Disk Drives (HDDs), SSDs have no moving parts and offer read and write speeds that are significantly faster. Opting for an NVMe SSD can further enhance speed, as these drives utilise a faster interface than the standard SATA protocol.</description>
+    </item>
+    <item>
+      <title>Louqe Ghost S1 - Case Review</title>
+      <link>https://strangelabs.io/guides/louqe-ghost-s1-case-review/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/guides/louqe-ghost-s1-case-review/</guid>
+      <description>Building in the Louqe Ghost S1: A Compact ITX Marvel The Louqe Ghost S1 is a masterpiece of design for those seeking the smallest possible ITX build without compromising on airflow or temperatures. At Strange Labs, we&amp;rsquo;ve always had a soft spot for small PCs, and the ITX form factor holds a special place in our hearts. Our everyday PC resides in a Bitfenix Portal, one of the more intriguing cases out there.</description>
+    </item>
+    <item>
+      <title>Full Stack Buildings Design</title>
+      <link>https://strangelabs.io/blog/full-stack-buildings-design/</link>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/full-stack-buildings-design/</guid>
+      <description>Designing Buildings in the Future The future of architecture is evolving, giving rise to a new breed of architects with broader vision, deeper influence, and a more comprehensive understanding of their craft. These future architects won’t just design buildings in the traditional sense, from material selection to philosophical considerations, but will also grasp the intricacies of modern technology. They will understand everything from the flow of electrons in wiring to the connectivity of the internet, and how these elements interact with the building&amp;rsquo;s users in an increasingly digital world.</description>
+    </item>
+  </channel>
+</rss>

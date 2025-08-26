@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Macos on Strange Labs Computers</title>
+    <link>https://strangelabs.io/tags/macos/</link>
+    <description>Recent content in Macos on Strange Labs Computers</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://strangelabs.io/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secret Things in Modern Operating Systems</title>
+      <link>https://strangelabs.io/guides/secret-things-in-modern-operating-systems/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/guides/secret-things-in-modern-operating-systems/</guid>
+      <description>Introduction Remember when video games rewarded curious players with secret items and hidden areas? The same happened with other types of software! In the early days of computing, developers would secretly embed games, jokes, animations, and hidden features into their software – little rewards for users who ventured beyond the obvious. The term &amp;ldquo;Easter egg&amp;rdquo; itself came from Atari&amp;rsquo;s Adventure game in 1979, where developer Warren Robinett hid his name in a secret room, creating what&amp;rsquo;s considered the first video game Easter egg.</description>
+    </item>
+  </channel>
+</rss>
