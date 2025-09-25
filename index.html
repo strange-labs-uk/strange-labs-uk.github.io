@@ -577,7 +577,7 @@
             <br /><br />
             <strong>📦 Please note: We currently only ship within the UK.</strong>
           </p>
-          <form id="spec-form" name="spec-form" accept-charset="utf-8" action="https://formspree.io/f/info@strangelabs.io" method="post" novalidate>
+          <form id="spec-form" name="spec-form" accept-charset="utf-8" action="https://formspree.io/f/xeororoy" method="post">
             <fieldset id="fs-frm-inputs">
               <div class="form-group">
                 <label for="full-name">Name: <span class="required">*</span></label>
@@ -653,7 +653,9 @@
                 <textarea rows="3" name="message" id="message" placeholder="Examples: preferred components or operating system, favourite case colour, or specific games or software you want to run."></textarea>
               </div>
               
-              <input type="hidden" name="_subject" id="email-subject" value="Survey Responses">
+              <input type="hidden" name="_subject" id="email-subject" value="New PC Specification Request">
+              <input type="hidden" name="_next" value="https://strangelabs.io/#order">
+              <input type="hidden" name="_captcha" value="false">
             </fieldset>
             <input id="form-submit" class="btn btn-primary" type="submit" value="Send responses"> 
           </form>
@@ -958,7 +960,7 @@ document.addEventListener('DOMContentLoaded', function() {
   });
   
   
-  form.addEventListener('submit', function(e) {
+  form.addEventListener('submit', async function(e) {
     e.preventDefault();
     
     const isNameValid = validateName();
@@ -973,15 +975,16 @@ document.addEventListener('DOMContentLoaded', function() {
       submitBtn.value = 'Sending...';
       
       
-      const formData = new FormData(form);
-      fetch(form.action, {
-        method: 'POST',
-        body: formData,
-        headers: {
-          'Accept': 'application/json'
-        }
-      })
-      .then(response => {
+      const data = new FormData(form);
+      try {
+        const response = await fetch(form.action, {
+          method: form.method,
+          body: data,
+          headers: {
+            'Accept': 'application/json'
+          }
+        });
+        
         if (response.ok) {
           alert('Thank you! Your form has been submitted successfully.');
           form.reset();
@@ -994,18 +997,29 @@ document.addEventListener('DOMContentLoaded', function() {
           document.querySelectorAll('.error-message').forEach(error => {
             error.style.display = 'none';
           });
+          
+          const modal = document.getElementById('formModal');
+          if (modal) {
+            
+            $(modal).modal('hide');
+          }
         } else {
-          throw new Error('Form submission failed');
+          const data = await response.json();
+          console.log('Formspree response:', data);
+          if (Object.hasOwn(data, 'errors')) {
+            alert(data["errors"].map(error => error["message"]).join(", "));
+          } else {
+            alert("Oops! There was a problem submitting your form. Check console for details.");
+          }
         }
-      })
-      .catch(error => {
-        alert('Sorry, there was an error submitting your form. Please try again.');
+      } catch (error) {
+        alert("Oops! There was a problem submitting your form");
         console.error('Form submission error:', error);
-      })
-      .finally(() => {
+      } finally {
         submitBtn.disabled = false;
         submitBtn.value = 'Send responses';
-      });
+      }
+      
     } else {
       
       const firstError = document.querySelector('.error');
@@ -1017,7 +1031,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
   
   const modal = document.getElementById('formModal');
-  modal.addEventListener('hidden.bs.modal', saveFormData);
+  $(modal).on('hidden.bs.modal', saveFormData);
   
   
   window.addEventListener('beforeunload', saveFormData);

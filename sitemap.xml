@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://strangelabs.io/skate/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+    <loc>https://strangelabs.io/blog/</loc>
+    <lastmod>2025-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://strangelabs.io/tags/code/</loc>
+    <lastmod>2025-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://strangelabs.io/blog/integrating_cdes/</loc>
+    <lastmod>2025-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://strangelabs.io/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://strangelabs.io/blog/</loc>
-    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+    <loc>https://strangelabs.io/tags/</loc>
+    <lastmod>2025-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://strangelabs.io/tags/technology/</loc>
+    <lastmod>2025-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://strangelabs.io/skate/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://strangelabs.io/blog/skyrim-tracker-app-launch/</loc>
     <lastmod>2025-08-20T00:00:00+00:00</lastmod>
@@ -21,12 +33,6 @@
     <lastmod>2025-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://strangelabs.io/tags/politics/</loc>
-    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://strangelabs.io/tags/</loc>
-    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://strangelabs.io/tags/technology/</loc>
     <lastmod>2025-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://strangelabs.io/blog/the-data-deletion-paradox/</loc>
@@ -160,9 +166,6 @@
   </url><url>
     <loc>https://strangelabs.io/blog/egx-rezzed-2019-best-of-the-bunch/</loc>
     <lastmod>2019-07-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://strangelabs.io/tags/code/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://strangelabs.io/blog/designing-a-space-for-technology-enthusiasts/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>

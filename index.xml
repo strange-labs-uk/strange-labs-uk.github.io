@@ -6,8 +6,15 @@
     <description>Recent content on Strange Labs Computers</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://strangelabs.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Integrating Distributed Data Environments</title>
+      <link>https://strangelabs.io/blog/integrating_cdes/</link>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://strangelabs.io/blog/integrating_cdes/</guid>
+      <description>Abstract The concept of Common Data Environments (CDEs) has undergone significant evolution since its inception within the Architecture, Engineering, and Construction (AEC) industries. Initially conceived as centralised platforms for collaborative data management, CDEs have expanded beyond their original scope to encompass broader team-based data sharing across various sectors. This article examines the transformation of CDEs from single-platform solutions to distributed systems, exploring the challenges that emerge when multiple teams require independent CDEs and the subsequent integration complexities.</description>
+    </item>
     <item>
       <title>Miniramp Warmup Checklist</title>
       <link>https://strangelabs.io/skate/</link>
