@@ -27,7 +27,7 @@
       <link>https://strangelabs.io/blog/skyrim-tracker-app-launch/</link>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://strangelabs.io/blog/skyrim-tracker-app-launch/</guid>
-      <description>Introduction After hundreds of hours exploring the vast world of Tamriel, have you ever wondered if you&amp;rsquo;ve truly seen everything Skyrim has to offer? Whether you&amp;rsquo;re a veteran Dragonborn or just starting your adventure, achieving a true 100% completion in Skyrim is one of gaming&amp;rsquo;s most ambitious undertakings.&#xA;The Scope of Skyrim Completion Skyrim is massive. With over 250 quests, hundreds of locations to discover, countless books to read, and achievements spanning multiple DLCs, keeping track of what you&amp;rsquo;ve completed is nearly impossible.</description>
+      <description>Update - January 2026: Save File Import! We&amp;rsquo;ve just released a major new feature: automatic save file parsing. You can now upload your Skyrim save file (.ess) and the tracker will automatically detect your completed quests!&#xA;How it works:&#xA;Upload your .ess save file from your Skyrim saves folder The parser extracts your quest progress, including the exact stage you&amp;rsquo;ve reached in each quest Completed quests are automatically marked in your tracker Current limitations:</description>
     </item>
     <item>
       <title>The Data Deletion Paradox</title>
