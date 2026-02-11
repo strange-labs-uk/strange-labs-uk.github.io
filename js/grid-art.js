@@ -191,6 +191,9 @@
     }
   });
 
+  // Skip animation entirely if user prefers reduced motion
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+
   setTimeout(function () {
     resize();
     animId = requestAnimationFrame(draw);

@@ -45,25 +45,28 @@
     submitBtn.textContent = "Sending...";
     submitBtn.disabled = true;
 
-    // Collect form data
-    const data = {
-      name: form.querySelector("#contact-name").value,
-      email: form.querySelector("#contact-email").value,
-      message: form.querySelector("#contact-message").value,
-    };
-
-    // TODO: Replace with your actual form endpoint (e.g. Formspree, Netlify Forms, or custom API)
-    // For now, log the data and show a success state
-    console.log("Contact form submission:", data);
-
-    setTimeout(function () {
-      submitBtn.textContent = "Sent!";
-      setTimeout(function () {
-        form.reset();
-        submitBtn.textContent = originalText;
+    fetch("https://formspree.io/f/mwvnvwek", {
+      method: "POST",
+      body: new FormData(form),
+      headers: { Accept: "application/json" },
+    })
+      .then(function (response) {
+        if (response.ok) {
+          submitBtn.textContent = "Sent!";
+          setTimeout(function () {
+            form.reset();
+            submitBtn.textContent = originalText;
+            submitBtn.disabled = false;
+            close();
+          }, 1200);
+        } else {
+          submitBtn.textContent = "Error — try again";
+          submitBtn.disabled = false;
+        }
+      })
+      .catch(function () {
+        submitBtn.textContent = "Error — try again";
         submitBtn.disabled = false;
-        close();
-      }, 1200);
-    }, 600);
+      });
   });
 })();

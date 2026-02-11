@@ -4,6 +4,8 @@
  */
 
 (function () {
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+
   const cards = document.querySelectorAll(".project-card");
 
   cards.forEach((card) => {

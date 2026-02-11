@@ -396,6 +396,27 @@ a {
     color: #fff;
 }
 
+.post-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-bottom: 2rem;
+}
+
+.post-nav a {
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.5);
+    transition: color 0.3s ease;
+}
+
+.post-nav a:hover {
+    color: #fff;
+}
+
+.post-nav-next {
+    text-align: right;
+}
+
 /* --------------------------------------------------------------------------
    10. Page Content
    -------------------------------------------------------------------------- */
@@ -772,6 +793,39 @@ a.gallery-card:hover {
 
     .gallery-grid {
         grid-template-columns: 1fr;
+    }
+}
+
+/* --------------------------------------------------------------------------
+   15. Accessibility
+   -------------------------------------------------------------------------- */
+
+/* Visible focus indicators for keyboard navigation */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+    outline: 2px solid rgba(222, 159, 0, 0.8);
+    outline-offset: 2px;
+}
+
+/* Reduced motion: disable all animations and transitions */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+
+    html,
+    body {
+        animation: none;
+    }
+
+    #grid-art {
+        display: none;
     }
 }
 
